@@ -497,7 +497,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.tui_comm@1.0 \
     MotoSignatureApp \
     MotCamera2 \
-    ims \
     com.motorola.motosignature \
     charge_only_mode \
     android.hardware.biometrics.fingerprint@2.1-service-ets \
